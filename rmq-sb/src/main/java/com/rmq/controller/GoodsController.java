@@ -28,6 +28,7 @@ public class GoodsController {
     public void getMsg() {
         String msg = goodsService.getMsg();
 
+
     }
 
 }
