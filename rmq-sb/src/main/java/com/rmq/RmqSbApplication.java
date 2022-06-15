@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class RmqSbApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(RmqSbApplication.class, args);
     }
 
