@@ -27,7 +27,6 @@ public class GoodsController {
     @GetMapping()
     public void getMsg() {
         String msg = goodsService.getMsg();
-
     }
 
 }
